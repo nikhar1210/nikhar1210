@@ -81,14 +81,7 @@ I thrive at the intersection of business strategy and technical execution, lever
 - Deploying Scalable Machine Learning for Data Science  
 - Machine Learning & AI Foundations: Linear Regression  
 - Building a Recommendation System with Python Machine Learning & AI  
-- Deep Learning with TensorFlow  
-
----
-
-## 📊 GitHub Stats (Optional)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhar1210&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhar1210&layout=compact&theme=radical)
+- Deep Learning with TensorFlow
 
 ---
 
